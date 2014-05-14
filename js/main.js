@@ -19,12 +19,14 @@ jQuery(function($) {
 
 	//smooth scroll
 	$('.navbar-nav > li').click(function(event) {
+             if($(this).find('>a').data('hashprop')==''){
 		event.preventDefault();
 		var target = $(this).find('>a').prop('hash');
 		$('html, body').animate({
 			scrollTop: $(target).offset().top
 		}, 500);
-	});
+            }
+   	});
 
 	//scrollspy
 	$('[data-spy="scroll"]').each(function () {
