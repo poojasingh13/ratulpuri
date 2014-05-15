@@ -1,40 +1,34 @@
-<?php include 'doctype.html'; include 'globalvar.php';?>
+<?php  include 'globalvar.php';?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Panel discussion on Challenges in the Indian power sector : Blog by Ratul Puri</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    
+</head><!--/head-->
+
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
-   <header id="header" role="banner">
-        <div class="container">
-            <div id="navbar" class="navbar navbar-default">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.html"><img alt="Ratul Puri" src="images/images.jpg" alt=""></a>
-                </div>
-                <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav">
-                        <li ><a href="<?php echo $GLOBALS['url_prefix']?>/index.php" data-hashprop="#main-slider"><i class="icon-home"></i></a></li>
-                        
-                        <li><a href="<?php echo $GLOBALS['url_prefix']?>/index.php#portfolio">Portfolio</a></li>
-                        <li><a href="<?php echo $GLOBALS['url_prefix']?>/index.php#biography">Biography</a></li>
-						<li><a href="/index.php#recognition">Recognition</a></li>
-						<li class="active"><a href="<?php echo $GLOBALS['url_prefix']?>/blog.php">Blog</a></li>
-						
-                        
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </header><!--/#header-->
+  
+<?php include 'header.html';?>
+  
 <section id ="blog">
 	<div class="container">
             <div class="box">
 			<div class="center gap">
-			<h2>Panel discussion on Challenges in the Indian power sector</h2>
+			<h3>Panel discussion on Challenges in the Indian power sector</h3>
 			</div>
 			<p class="lead">
-				<p><iframe height="300" frameborder="0" width="300" style="float:left; margin-right:20px;" allowfullscreen="" src="//www.youtube.com/embed/6gWsYENtYCI"></iframe></p>
+				<p><iframe height="200" frameborder="0" width="300" style="float:left; margin-right:20px;" allowfullscreen="" src="//www.youtube.com/embed/6gWsYENtYCI"></iframe></p>
 <p>Here are excerpts  from a panel discussion that I attended today. I was joined by Dr R S Sharma, MD, Jindal Power and Dr Arvind Prasad, Director, FICCI on the panel.</p>
 <p>Pitching strongly for implementing coal price pooling in the country to meet increasing coal demand in the country, I was contesting that there is no immediate solution to the problem being faced by power producers.</p>
 <p>“Moreover, there is no alternate, but to augment domestic coal production in the long term” I said while discussing problems in the power sector.</p>
