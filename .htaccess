@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www.ratulpuri.com/index.php$ [NC]
+RewriteRule ^(.*)$ http://www.ratulpuri.com/$1 [L,R=301]
+
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+

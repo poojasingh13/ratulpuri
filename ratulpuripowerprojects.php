@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
     <title>Indians keen on electricity, not so much on gold : Blog by Ratul Puri</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">

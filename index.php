@@ -2,14 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<title>Ratul Puri Official Website - Hindustan Power Projects | Ratul Puri NEWS</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>About Ratul Puri</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
+	<meta name="description" content="Read Everything About Ratul Puri, Latest NEWS, Projects, Industry Updates, Special Reports, Business NEWS, Find Information on Ratul Puri's Hindustan Power Projects, Power & Energy Projects" />
+    <link rel="canonical" href="http://www.ratulpuri.com/" />
+	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+    <link href="css/main.css?<?php echo $GLOBALS['bpc']?>" rel="stylesheet">
+	
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
@@ -17,6 +20,18 @@
     
 </head><!--/head-->
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
+
+
+ <?php
+//header("HTTP/1.1 301 Moved Permanently");
+//header("Location: http://www.ratulpuri.com");
+
+
+
+?> 
+
+
+
     <header id="header" role="banner">
         <div class="container">
             <div id="navbar" class="navbar navbar-default">
@@ -54,15 +69,27 @@
             <div class="active item">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1><img src="images/mr-ratul-puri.jpg"/></h1>
-                        <p class="lead">Chairman - Board of Directors, Hindustan Powrprojects Pvt Ltd (HPPPL)</p>
+                        <h1>Ratul Puri</h1>
+                        <p class="lead"><img src="images/mr-ratul-puri.jpg"/></p>
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item">
+            
+			
+			<div class="item">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>Ratul Puri</h1>
+                        <h2>Ratul Puri<br /></h2>
+                        <p class="lead">Chairman - Board of Directors, Hindustan Powerprojects Pvt Ltd (HPPPL)</p>
+                    </div>
+                </div>
+            </div><!--/.item-->
+			
+			
+			<div class="item">
+                <div class="container">
+                    <div class="carousel-content">
+                        <h2>Ratul Puri</h2>
                         <p class="lead">Leads an organization that prides itself as ‘The energy people’</p>
                     </div>
                 </div>
@@ -72,7 +99,7 @@
 			 <div class="item">
                 <div class="container">
                     <div class="carousel-content">
-					<h1>Ratul Puri</h1>
+					<h2>Ratul Puri</h2>
                         
                         <p class="lead">We need to go out and aggressively reduce interest rates to kickstart the economy</p>
                     </div>
@@ -82,7 +109,7 @@
 			<div class="item">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>Ratul Puri</h1>					
+                        <h2>Ratul Puri</h2>					
                         <p class="lead">"We were building a new identity" </p>
                     </div>
                 </div>
