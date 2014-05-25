@@ -3,33 +3,12 @@
 <html lang="en">
 <head>
 	<title>Ratul Puri Official Website - Hindustan Power Projects | Ratul Puri NEWS</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
+    
 	<meta name="description" content="Read Everything About Ratul Puri, Latest NEWS, Projects, Industry Updates, Special Reports, Business NEWS, Find Information on Ratul Puri's Hindustan Power Projects, Power & Energy Projects" />
     <link rel="canonical" href="http://www.ratulpuri.com/" />
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css?<?php echo $GLOBALS['bpc']?>" rel="stylesheet">
-	
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
-    
+<?php  include 'meta.html';?>    
 </head><!--/head-->
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
-
-
- <?php
-//header("HTTP/1.1 301 Moved Permanently");
-//header("Location: http://www.ratulpuri.com");
-
-
-
-?> 
-
 
 
     <header id="header" role="banner">
@@ -42,7 +21,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img alt="Ratul Puri" src="images/images.jpg" alt=""></a>
+                    <a class="navbar-brand" href="/"><img alt="Ratul Puri" src="images/images.jpg" alt=""></a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
@@ -52,6 +31,7 @@
                         <li><a href="#biography">Biography</a></li>
 						<li><a href="#recognition">Recognition</a></li>
 						<li><a href="blog.php">Blog</a></li>
+						<li><a href="news-article.php">News Article</a></li>
 						
                         
                     </ul>

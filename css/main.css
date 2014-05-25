@@ -166,12 +166,12 @@ a:focus {
 .box.last {
   border-radius: 0 0 5px 5px;
 }
-.box h2 {
+.box h2,.box .center h1 {
   padding: 10px 30px;
   display: inline-block;
   border-radius: 4px;
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   font-size: 48px;
 }
 
