@@ -3,8 +3,10 @@
 <html lang="en">
 <head>
     
-    <title>List of blog by Ratul Puri</title>
-    <?php  include 'meta.html';?>
+    <title>Ratul Puri Blog - Hindustan Power Projects | Industry NEWS</title>
+	<link rel="canonical" href="http://www.ratulpuri.com/blog.php" />
+	<meta name="description" content="Check Out Latest Blog Posted by Ratul Puri on - Hindustan Power Projects, Indian Power and Energy Sector, Hydro and Thermal Power. Stay Informed & Updated" />
+	<?php  include 'meta.html';?>
     
 </head><!--/head-->
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
@@ -13,7 +15,7 @@
 	<div class="container">
             <div class="box">
 			<div class="center gap">
-			<h2>Blog</h2>
+			<h1>Ratul Puri Blog</h1>
 			</div>
 			<p class="lead">
 				<b>Indians keen on electricity, not so much on gold</b><br/>
@@ -40,7 +42,8 @@
 			Hindustan Powerprojects Private Limited (HPPPL) was incorporated with the vision to become a leading energy developer in India. It is one of the fastest growing integrated power companies in India, operating across a synergetic span of verticals comprising Power Generation, Power Trading, EPC, Development and Renewables (Solar)
  
  
-			</p>
+</p>
+			</div>
 			</div>
 	</section>
 	

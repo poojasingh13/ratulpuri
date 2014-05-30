@@ -2,18 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
-    <title>List of Article : Ratul Puri</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
+    
+    <title>Ratul Puri NEWS - Latest Industry NEWS | Media & Press Releases</title>
+    <link rel="canonical" href="http://www.ratulpuri.com/news-article.php" />
+	<meta name="description" content="Get Latest NEWS and Updates on Ratul Puri's Hindustan Power & Energy Business Projects, Ratul Puri Corporate NEWS, NEWS on Indian Energy & Electricity Sector" />
+	<?php  include 'meta.html';?>    
     
 </head><!--/head-->
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
@@ -22,53 +15,58 @@
 	<div class="container">
             <div class="box">
 			<div class="center gap">
-			<h2>News Article</h2>
+				<h1>Ratul Puri News</h1>
 			</div>
-			<p class="lead">
-				<b><a href="article1.php">BJP’s victory brings hopes for the Energy Sector</a></b><br/>
-			Energy sector has been the recently sworn in Prime Minister’s keen interest for the development of a state. As the new government headed by Narender Modi takes charge, the energy sector is looking for a revamp of policies pertaining to energy and natural resources’ firms...<a href="article1.php">Read More..</a>
+			<div class="lead">
+			
+			<h2><a href="hindustan-Power-bags-nsci-award-second-time-in-row.php">Hindustan Power bags NSCI award second time in row</a></h2><br/>
+			The thermal arm of Hindustan Powerprojects, Hindustan Thermalprojects, was awarded the National Safety Council Award (NSCI) by the labour ministry in recognition of the firm’s initiatives towards implementing effective occupational safety and health practices at its Anuppur unit in Madhya Pradesh....<a href="hindustan-Power-bags-nsci-award-second-time-in-row.php">Read More..</a>
 
-<br/><br/>
-<b><a href="article2.php">Blackstone-Backed Hindustan Powerprojects Plans Unit IPO</a></b><br/>
-			Hindustan Powerprojects Pvt., an Indian generator backed by Blackstone Group LP (BX), plans to sell shares in its solar unit as it prepares to double investment in photovoltaic projects to $2 billion by 2016. Ratul puri, chairman of the company, believes it is a sensible business to take to Indian market now. With no immediate need for cash, it will require $1 billion from projects pipelined for the future..
-			<a href="article2.php" >Read More..</a>
-<br/><br/>
-<b><a href="article3.php">Hindustan powerprojects's latest project gets certified</a></b><br/>
-			Latest addition to Hindustan Powerproject’s portfolio is a thermal power plant in Annupur, Madhya Pradesh. The plant still in its first phase was accorded certificate of Hydro test of the unit 2 Boiler by the concerned authority. The plant with a capacity of 12oo MW has been scheduled for commissioning during the current year.
-			...<a href="article3.php" >Read More..</a>
+<br/>
+<h2><a href="how-corporates-have-been-planning-for-multifarious-range-of-possible-post-election-scenarios.php">How corporates have been planning for multifarious range of possible post-election scenarios</a></h2><br/>
+			While corporate India closely watched how the recently held elections in the country panned out, it has also resulted in serious planning and discussions among various sectors on the impact of new government and policies. Leaders across industries shared how their companies brace the future....<a href="how-corporates-have-been-planning-for-multifarious-range-of-possible-post-election-scenarios.php">Read More..</a>
+
+<br/>
+
+<h2><a href="in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business.php">In Search of Light: Ratul Puri unveils a mega investment plan for his fledgling power generation business</a></h2><br/>
+			Hindustan Powerprojects Pvt. Ltd (HPPPL) came to be with its Chairman, Ratul Puri, looking for an image makeover for the company, which was earlier known as Moser Baer Power Projects. Moser Baer, founded in 1983 by his father Deepak Puri, became a household name for CDs, DVDs and rewritable discs. However, by 2008 the company had forayed into a different segment, namely power generation. Five years hence, Ratul Puri gave the company its new name - Hindustan Powerprojects Pvt. Ltd....<a href="in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business.php">Read More..</a>
+<br/>
+
+
+<h2><a href="indias-power-sector-five-key-challenges-and-solutions.php">India's Power Sector: Five key challenges and solutions</a></h2><br/>
+			Ratul Puri, Chairman, Hindustan Powerprojects Pvt. Ltd (HPPPL), recently outlined key challenges and plausible solutions in Business Standard magazine.He elaborated on the five key challenges being faced by the energy sector:...<a href="indias-power-sector-five-key-challenges-and-solutions.php">Read More..</a>
+<br/>
+
+
+<h2><a href="reduce-interest-rates-to-kickstart-the-economy.php">Reduce interest rates to kickstart the economy</a></h2><br/>
+			At the recent Business Today 'Power Breakfast' held on May 6, 2014 at The Oberoi Delhi, many industrialists were of the view that inflation in India is more of a political problem than an economic problem....<a href="reduce-interest-rates-to-kickstart-the-economy.php">Read More..</a>
+<br/>
+
+
+			<h2><a href="make-india-vibrant-after-vibrant-gujarat.php">Make India vibrant after vibrant Gujarat</a></h2><br/>
+			With Gujarat’s success story preceding Narendra Modi’s role as the new prime minister, an optimistic outlook is being shared by India’s energy sector to bring about a similar transformation in country too. In a recent article in the Times of India, leading energy and natural resources firms in the country gauged their expectations from the new government....<a href="make-india-vibrant-after-vibrant-gujarat.php">Read More..</a>
+
+<br/>
+<h2><a href="hindustan-powers-annuppur-project-gets-hydro-test-certification.php">Hindustan Power’s Annuppur project gets hydro test certification</a></h2><br/>
+			Hindustan Powerproject’s thermal project in Annupur, Madhya Pradesh, crossed a critical landmark towards its commissioning by receiving a Hydro test certification for the unit 2 Boiler- phase 1...
+			<a href="hindustan-powers-annuppur-project-gets-hydro-test-certification.php" >Read More..</a>
+<br/>
+<h2><a href="mandate-will-allow-govt-to-take-the-right-decisions.php">Mandate will allow govt to take the right decisions: Ratul Puri</a></h2><br/>
+			Ratul Puri, Chairman of Hindustan Powerprojects Private Ltd., recently shared his views with Business Today magazine on changes that can be expected as a result of the latest Lok Sabha elections. Speaking to the magazine, Mr. Puri said that the majority-winning party’s mandate is the strongest one seen in recent times, and it would allow the government to take right decisions..
+			...<a href="mandate-will-allow-govt-to-take-the-right-decisions.php" >Read More..</a>
  
  
- <br/><br/>
-<b><a href="article4.php">Mandate will allow government to take the right decisions</a></b><br/>
-			According to a May 16, 2014 newspaper article, Chairman of Hindustan Powerprojects Pvt Ltd sees China-style development for India in years ahead. As china’s prime focus initially was infrastructure, followed by manufacturing and then services...
-			<a href="article4.php" >Read More..</a>
+ <br/>
+<h2><a href="high-hopes-from-modi-and-team.php">High hopes from Modi and Team</a></h2><br/>
+			India Inc. hails decisive mandate for Modi-led BJP given by its voters. Higher hopes are leading to greater responsibility for the new government. The corporate sector is looking for bold reforms, boost economic growth and create jobs to initiate a “golden era of change”....
+			<a href="high-hopes-from-modi-and-team.php" >Read More..</a>
  
- <br/><br/>
-<b><a href="article5.php">High hopes from Modi and Team</a></b><br/>
-India Inc. hails decisive mandate for Modi-led BJP given by its voters. Higher hopes are leading to greater responsibility for the new government. The corporate sector is looking for bold reforms, boost economic growth and create jobs to initiate a “golden era of change”....<a href="article5.php" >Read More..</a>
+ <br/>
+<h2><a href="blackstone-backed-hindustan-powerprojects-plans-unit-ipo.php">Blackstone-Backed Hindustan Powerprojects Plans Unit IPO</a></h2><br/>
+	Hindustan Powerprojects Pvt., an Indian generator backed by Blackstone Group LP (BX), plans to sell shares in its solar unit as it prepares to double investment in photovoltaic projects to $2 billion by 2016. Ratul puri, chairman of the company, believes it is a sensible business to take to Indian market now. With no immediate need for cash, it will require $1 billion from projects pipelined for the future...<a href="blackstone-backed-hindustan-powerprojects-plans-unit-ipo.php" >Read More..</a>
 			
-			<br/>
-			<br/>
-			
-			<b><a href="article6.php">Make India vibrant after vibrant Gujarat</a></b><br/>
-			With Gujarat’s success story preceding Narendra Modi’s role as the new prime minister, an optimistic outlook is being shared by India’s energy sector to bring about a similar transformation in country too. In a recent article in the Times of India, leading energy and natural resources firms in the country gauged their expectations from the new government.....<a href="article6.php" >Read More..</a>
-			
-
-			<br/>
-			<br/>
-			
-			<b><a href="article7.php">Hindustan Power’s Annuppur project gets hydro test certification</a></b><br/>
-			With Gujarat’s success story preceding Narendra Modi’s role as the new prime minister, an optimistic outlook is being shared by India’s energy sector to bring about a similar transformation in country too. In a recent article in the Times of India, leading energy and natural resources firms in the country gauged their expectations from the new government.....<a href="article6.php" >Read More..</a>
-
-						<br/>
-			<br/>
-			
-			<b><a href="article8.php">Mandate will allow govt to take the right decisions: Ratul Puri</a></b><br/>
-			Ratan Puri, Chairman of Hindustan Powerprojects Private Ltd., recently shared his views with Business Today magazine on changes that can be expected as a result of the latest Lok Sabha elections. Speaking to the magazine, Mr Puri said that the majority-winning party’s mandate is the strongest one seen in recent times, and it would allow the government to take right decisions......<a href="article8.php" >Read More..</a>
-
-
-
-			</p>
+			</div>
+			</div>
 			</div>
 	</section>
 	

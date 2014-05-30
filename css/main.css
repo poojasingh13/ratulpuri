@@ -172,10 +172,10 @@ a:focus {
   border-radius: 4px;
   position: relative;
   margin-bottom: 5px;
-  font-size: 48px;
+  font-size: 38px;
 }
-
-
+.box .lead h2{padding:0px;margin:0}
+.box .lead h2 a{font-size:17px;font-weight:bold}
 .box h3 {
   padding: 0px;
   display: inline-block;
