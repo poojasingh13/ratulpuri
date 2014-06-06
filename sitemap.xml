@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>http://www.ratulpuri.com/</loc>
@@ -21,19 +21,53 @@
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
-
 <url>
-  <loc>http://www.ratulpuri.com/ratulpuripowerprojects.php</loc>
+  <loc>http://www.ratulpuri.com/strong-mandate-will-give-us-a-powerful-nation.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.ratulpuri.com/ratulpuriagenda.php</loc>
+  <loc>http://www.ratulpuri.com/indians-keen-on-electricity-not-so-much-on-gold.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.ratulpuri.com/ratulpurienergysector.php</loc>
+  <loc>http://www.ratulpuri.com/panel-discussion-on-challenges-in-the-indian-power-sector.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/agenda-before-the-new-government-serious-challenges-that-we-should-overcome.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/challenges-before-indian-energy-sector.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/hindustan-Power-bags-nsci-award-second-time-in-row.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/how-corporates-have-been-planning-for-multifarious-range-of-possible-post-election-scenarios.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/indias-power-sector-five-key-challenges-and-solutions.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.ratulpuri.com/reduce-interest-rates-to-kickstart-the-economy.php</loc>
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>

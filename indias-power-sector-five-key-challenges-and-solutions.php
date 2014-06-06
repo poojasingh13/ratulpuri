@@ -18,8 +18,7 @@
 			<h1>India's Power Sector: Five key challenges and solutions</h1>
 			</div>
 			<p class="lead">
-				<p>Ratul Puri, Chairman, Hindustan Powerprojects Pvt. Ltd (HPPPL), recently outlined key challenges and plausible solutions in Business Standard magazine. According to him, the Indian Power sector has not been able to stimulate and sustain the required capacity addition that would the ever-growing power demand faced by the country. 
-
+				Ratul Puri, Chairman, Hindustan Powerprojects Pvt. Ltd (HPPPL), recently outlined key challenges and plausible solutions in Business Standard magazine. According to him, the Indian Power sector has not been able to stimulate and sustain the required capacity addition that would the ever-growing power demand faced by the country.<br/> 
 He elaborated on the five key challenges being faced by the energy sector:
 				<ol>
 <li>Fuel security concerns – While thermal capacity addition is limited by concerns over fuel availability, non-availability of gas renders a large proportion of gas-based capacity idle, and coal supplies by CIL are restricted to about 65 per cent of total coal requirement, which increases dependence on imported coal.</li>
@@ -27,7 +26,7 @@ He elaborated on the five key challenges being faced by the energy sector:
 <li>Under-procurement of power by states – Suppressed demand projections by state result from the above points.</li>
 <li>Inimical financing environment – Last 4-5 years has seen project costs being overrun and higher end tariffs.</li>
 <li>Policy paralysis – Micro-level policies are not in consonance with the macro framework policies.</li>
-</ol>
+</ol><br/>
 Puri’s five solutions to combat these challenges include:
 <ol>
 
@@ -37,8 +36,10 @@ Puri’s five solutions to combat these challenges include:
 <li>Increased financing facilities for energy sector – A sustainable credit enhancement mechanism is required through increased participation by global funding agencies.</li>
 <li>Public-private partnership model – The scale of public-private partnership models must be expanded to bridge the country’s energy deficit.</li>
 </ol>
+<br/><br/>
+Source: <a target="_blank" rel="nofollow" href="http://smartinvestor.business-standard.com/market/interviews-235942-interviewsdet-Indias_Power_Sector_Five_key_challenges_and_solutions.htm#.U3D2RfmSzuK">http://smartinvestor.business-standard.com/market/interviews-235942-interviewsdet-Indias_Power_Sector_Five_key_challenges_and_solutions.htm#.U3D2RfmSzuK</a>
 
-</p></p>
+</p>
 			</div>
 			</div>
 	</section>

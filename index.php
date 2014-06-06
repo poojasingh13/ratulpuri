@@ -26,14 +26,8 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#main-slider"><i class="icon-home"></i></a></li>
-                        
-                        <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="#biography">Biography</a></li>
-						<li><a href="#recognition">Recognition</a></li>
 						<li><a href="blog.php">Blog</a></li>
 						<li><a href="news-article.php">News Article</a></li>
-						
-                        
                     </ul>
                 </div>
             </div>
@@ -50,7 +44,10 @@
                 <div class="container">
                     <div class="carousel-content">
                         <h1>Ratul Puri</h1>
-                        <p class="lead"><img src="images/mr-ratul-puri.jpg"/></p>
+                        <p class="lead"><img alt="Ratul Puri" src="images/mr-ratul-puri.jpg"/>
+						<br/>
+						Chairman - Board of Directors, Hindustan Powerprojects Pvt Ltd (HPPPL)
+						</p>
                     </div>
                 </div>
             </div><!--/.item-->
@@ -60,7 +57,10 @@
                 <div class="container">
                     <div class="carousel-content">
                         <h2>Ratul Puri<br /></h2>
-                        <p class="lead">Chairman - Board of Directors, Hindustan Powerprojects Pvt Ltd (HPPPL)</p>
+                        <p class="lead">						
+						<img alt="Ratul Puri" width="160px" height="200px"  src="images/rsz_1ratul3.jpg"/><br/>
+						"We were building a new identity"
+						</p>
                     </div>
                 </div>
             </div><!--/.item-->
@@ -70,30 +70,19 @@
                 <div class="container">
                     <div class="carousel-content">
                         <h2>Ratul Puri</h2>
-                        <p class="lead">Leads an organization that prides itself as ‘The energy people’</p>
+                        <p class="lead">
+						<img alt="Ratul Puri" width="160px" height="200px" src="images/rsz_1ratul1.jpg"/><br/>
+						
+						Leads an organization that prides itself as ‘The energy people’
+						
+						</p>
                     </div>
                 </div>
             </div><!--/.item-->
 			
 			
-			 <div class="item">
-                <div class="container">
-                    <div class="carousel-content">
-					<h2>Ratul Puri</h2>
-                        
-                        <p class="lead">We need to go out and aggressively reduce interest rates to kickstart the economy</p>
-                    </div>
-                </div>
-            </div><!--/.item-->
+			 
 			
-			<div class="item">
-                <div class="container">
-                    <div class="carousel-content">
-                        <h2>Ratul Puri</h2>					
-                        <p class="lead">"We were building a new identity" </p>
-                    </div>
-                </div>
-            </div><!--/.item-->
 			
 			
         </div><!--/.carousel-inner-->

@@ -29,7 +29,7 @@
 <br/>
 
 <h2><a href="in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business.php">In Search of Light: Ratul Puri unveils a mega investment plan for his fledgling power generation business</a></h2><br/>
-			Hindustan Powerprojects Pvt. Ltd (HPPPL) came to be with its Chairman, Ratul Puri, looking for an image makeover for the company, which was earlier known as Moser Baer Power Projects. Moser Baer, founded in 1983 by his father Deepak Puri, became a household name for CDs, DVDs and rewritable discs. However, by 2008 the company had forayed into a different segment, namely power generation. Five years hence, Ratul Puri gave the company its new name - Hindustan Powerprojects Pvt. Ltd....<a href="in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business.php">Read More..</a>
+			Hindustan Powerprojects Pvt. Ltd (HPPPL) came to be with its Chairman, Ratul Puri, looking for an image makeover for the company, which was earlier known as Moser Baer Power Projects. Moser Baer, founded in 1983 by his father Deepak Puri, became a household name for CDs, DVDs and rewritable discs.....<a href="in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business.php">Read More..</a>
 <br/>
 
 
