@@ -25,7 +25,7 @@ Speaking to Business Today on the side lines of India Today’s conclave in New 
 Puri says he does not want to depend solely on thermal power to avoid the shortage of coal in India or depend on imported coal. HPPPL began solar power generation in 2010-11 and had an EBITDA earning of Rs 500 crore from its solar business in the year 2012-13. With HPPPL’s thermal power plant in Madhya Pradesh slated to undergo its first and second phases of commission in the coming future, the company hopes to generate EBITDA of over Rs 2500 crore. <br/><br/>
 With a 25-year power purchase agreement with the Uttar Pradesh Power Corporation already under the company’s wing, Puri is happy with how his plans are taking shape on this long journey.<br/><br/>
 <br/>
-Source: <a target="_blank" rel="nofollow" href="http://businesstoday.intoday.in/story/india-today-conclave-ratul-puri-power-generation-business/1/204524.html">http://businesstoday.intoday.in/story/india-today-conclave-ratul-puri-power-generation-business/1/204524.html</a>
+Source: <a target="_blank" rel="nofollow" href="http://businesstoday.intoday.in/story/india-today-conclave-ratul-puri-power-generation-business/1/204524.html">Business Today</a>
 </p>
 			</div>
 			</div>

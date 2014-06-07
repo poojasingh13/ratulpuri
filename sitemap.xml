@@ -96,4 +96,9 @@
   <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>http://www.ratulpuri.com/video.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
 </urlset>

@@ -2,18 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
+    
     <title>Challenges Before Indian Energy Sector : Blog by Ratul Puri</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
+        <link rel="canonical" href="http://www.ratulpuri.com/challenges-before-indian-energy-sector.php" />
+	<meta name="description" content="Having experienced near double digit growth over the last decade, India now faces the challenging task of meeting the aspirations of young India. I believe, that the expectations – employment, better life – can only be met with solving the energy deficiency in the country." />
+    <?php  include 'meta.html';?>
     
 </head><!--/head-->
 

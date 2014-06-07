@@ -22,8 +22,8 @@
 New York-based Blackstone invested $300 million in New Delhi-based Hindustan Powerprojects earlier known as Moser Baer Projects Pvt. in August 2010. The world’s biggest buyout firm holds about 36 percent in the company, Puri said. In his opinion, solar power is a perfect fit for India. He sees efficiency in use of solar power, as it will reduce the cost of transmission and distribution by generating enough power that can be consumed.<br/><br/>
 Puri claims his company’s plant already has the capacity to allow a listing with 350 megawatts of photovoltaic projects running. Another advantage is that photovoltaic projects can be built in as short a time as six weeks, Puri said, compared with over seven years for Hindustan Powerprojects’ 2,520-megawatt coal-powered project in Anuppur, Madhya Pradesh state.<br/><br/>
 India’s Commerce Ministry may issue recommendations by May 21 in a two-year-old probe prompted by complaints from domestic solar manufacturers that competitors from the U.S., China, Malaysia, Europe and Japan sold cells below cost.<br/><br/>
- 
- 
+<br/><br/> 
+ Source : <a rel="nofollow" target="_blank" href="http://www.bloomberg.com/news/2014-05-12/blackstone-backed-hindustan-powerprojects-plans-unit-ipo.html" >Bloomberg News</a>
 
 </p></p>
 			</div>

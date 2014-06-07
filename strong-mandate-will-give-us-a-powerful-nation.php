@@ -2,18 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
+    
     <title>Strong Mandate will give us a Powerful nation : Blog by Ratul Puri</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
+    <link rel="canonical" href="http://www.ratulpuri.com/strong-mandate-will-give-us-a-powerful-nation.php" />
+	<meta name="description" content="This election witnessed Mr Narendra Modi repeat a Rajiv Gandhi’s 1984 feat  by acquiring a clear majority. Mr. Ratul Puri Chairman of Hindustan Powerprojects Private Ltd predicts an implementation of the highly praised Gujarat model." />
+	
+	<?php  include 'meta.html';?>
+    
     
 </head><!--/head-->
 

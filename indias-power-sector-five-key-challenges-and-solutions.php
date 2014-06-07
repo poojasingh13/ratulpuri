@@ -37,7 +37,7 @@ Puri’s five solutions to combat these challenges include:
 <li>Public-private partnership model – The scale of public-private partnership models must be expanded to bridge the country’s energy deficit.</li>
 </ol>
 <br/><br/>
-Source: <a target="_blank" rel="nofollow" href="http://smartinvestor.business-standard.com/market/interviews-235942-interviewsdet-Indias_Power_Sector_Five_key_challenges_and_solutions.htm#.U3D2RfmSzuK">http://smartinvestor.business-standard.com/market/interviews-235942-interviewsdet-Indias_Power_Sector_Five_key_challenges_and_solutions.htm#.U3D2RfmSzuK</a>
+Source: <a target="_blank" rel="nofollow" href="http://smartinvestor.business-standard.com/market/interviews-235942-interviewsdet-Indias_Power_Sector_Five_key_challenges_and_solutions.htm#.U3D2RfmSzuK">Smart Investor</a>
 
 </p>
 			</div>

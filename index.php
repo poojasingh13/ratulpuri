@@ -28,6 +28,7 @@
                         <li class="active"><a href="#main-slider"><i class="icon-home"></i></a></li>
 						<li><a href="blog.php">Blog</a></li>
 						<li><a href="news-article.php">News Article</a></li>
+						<li><a href="video.php">Videos</a></li>
                     </ul>
                 </div>
             </div>
@@ -58,7 +59,7 @@
                     <div class="carousel-content">
                         <h2>Ratul Puri<br /></h2>
                         <p class="lead">						
-						<img alt="Ratul Puri" width="160px" height="200px"  src="images/rsz_1ratul3.jpg"/><br/>
+						<img alt="Ratul Puri"   src="images/rsz_picture2.jpg"/><br/>
 						"We were building a new identity"
 						</p>
                     </div>
@@ -71,7 +72,7 @@
                     <div class="carousel-content">
                         <h2>Ratul Puri</h2>
                         <p class="lead">
-						<img alt="Ratul Puri" width="160px" height="200px" src="images/rsz_1ratul1.jpg"/><br/>
+						<img alt="Ratul Puri"  src="images/rsz_picture12.jpg"/><br/>
 						
 						Leads an organization that prides itself as ‘The energy people’
 						
@@ -99,15 +100,15 @@
                     <p class="lead">
 					
 					Mr. Ratul Puri is the Chairman of the Board of Directors of Hindustan Powerprojects Private Limited (Hindustan Power). His vision and understanding of the Indian energy sector has enabled the organization to emerge as one of the leading integrated power players in the country.
-<br/>
+<br/><br/>
 During the last five years, under his guidance the company has partnered with best in class investors to be a part of its growth story. Today in a short period, the company has assets to the tune of USD $2 billion which is a standout achievement for any organization in the country.
-<br/>
+<br/><br/>
 His technology background with the understanding of energy sector has resulted in adoption of state-of-the-art technology in building the power plants. This aspect is evident in the commissioning of ~ 350 MW of solar PV assets (including India and internationally) and also its upcoming 2520 MW thermal power plant in the state of Madhya Pradesh.
-<br/>
+<br/><br/>
 The company growth trajectory is poised for the next leap with commissioning of 6,020 MW of power over the next few years in thermal, solar and hydro. Additionally, the company is also developing over 6,100 MW of capacity using conventional and non-conventional energy sources in India, Europe, and the USA.
-<br/>
+<br/><br/>
 He leads an organization that prides itself as ‘The energy people’ thereby nurturing them to write many glorious chapters in India’s story towards achieving energy sufficiency.
-<br/>
+<br/><br/>
 Ratul is an alumnus of Carnegie Mellon, the Pittsburgh-based global research university.  He holds a bachelor's degree in computer engineering, mathematics, and computer science.
 				</p>
 	</div>
@@ -123,9 +124,9 @@ Ratul is an alumnus of Carnegie Mellon, the Pittsburgh-based global research uni
                 <div class="center gap">
                     <h2>Biography</h2>
 					<p class="lead">
-					Ratul is an alumnus of Carnegie Mellon, the Pittsburgh-based global research university. <br/>
+					Ratul is an alumnus of Carnegie Mellon, the Pittsburgh-based global research university. <br/><br/>
 					In 1994, he joined Moser Baer India Limited, a company founded by his father, as general manager
-					for business development. He served as director from 2001 to Nov 16, 2012 and executive director until April 30, 2012.</br> 
+					for business development. He served as director from 2001 to Nov 16, 2012 and executive director until April 30, 2012.</br> <br/>
 					He then forayed into a completely different business of power generation by the end of 2008 – Hindustan Powerprojects Pvt Ltd
 					</p></div></div></div>
 	</section>
@@ -138,11 +139,11 @@ Ratul is an alumnus of Carnegie Mellon, the Pittsburgh-based global research uni
                     <h2>Recognition</h2>
 					<p class="lead">
 					In 2002, he was the Ernst & Young Entrepreneur of the Year for his contribution towards manufacturing industry in India.
-<br/>
+<br/><br/>
 Business Today, in December 2007, rated Ratul among the top 21 young leaders in the country who could shape India’s destiny in the 21st century.
-<br/>
+<br/><br/>
 Dataquest magazine has named him amongst the “Young Brigade in the IT Industry”.
-<br/>
+<br/><br/>
 He is part of many think tanks that are evolving solutions to usher energy sufficiency in India and has been invited to part of the World Economic Forum as one of the Young Global leaders.
 
 

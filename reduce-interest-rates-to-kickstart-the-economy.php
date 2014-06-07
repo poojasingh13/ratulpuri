@@ -24,7 +24,7 @@ The majority participants agreed that the periodic increases in interest rates b
 Puri showed concern saying CPI problem can't be solved by maintaining high interest rates.<br/>
 From those who attended, felt Power and Railways deserved more importance and hence better reforms. Some panelists talked about job creation as well. Towards the end of the discussion, some panelists shared their wish list for the new government. <br/>
 <br/>
-Source: <a target="_blank" rel="nofollow" href="http://businesstoday.intoday.in/story/bt-power-breakfast-new-govt-growth-or-inflation-may-6/1/205886.html">http://businesstoday.intoday.in/story/bt-power-breakfast-new-govt-growth-or-inflation-may-6/1/205886.html</a>
+Source: <a target="_blank" rel="nofollow" href="http://businesstoday.intoday.in/story/bt-power-breakfast-new-govt-growth-or-inflation-may-6/1/205886.html">Business Today</a>
 
 </p>
 			</div>

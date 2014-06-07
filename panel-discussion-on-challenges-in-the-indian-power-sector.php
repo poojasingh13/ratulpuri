@@ -2,18 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="6d_bScvQ08N2C1B_K3FSijrWUL0yig0rlsNycLjEGwI" />
+    
     <title>Panel discussion on Challenges in the Indian power sector : Blog by Ratul Puri</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
+        <link rel="canonical" href="http://www.ratulpuri.com/panel-discussion-on-challenges-in-the-indian-power-sector.php" />
+	<meta name="description" content="Here are excerpts  from a panel discussion that I attended today. I was joined by Dr R S Sharma, MD, Jindal Power and Dr Arvind Prasad, Director, FICCI on the panel." />
+	
+	<?php  include 'meta.html';?>
+   
     
 </head><!--/head-->
 
