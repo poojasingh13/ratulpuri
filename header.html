@@ -1,24 +1,20 @@
-<header id="header" role="banner">
-        <div class="container">
-            <div id="navbar" class="navbar navbar-default">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.php"><img alt="Ratul Puri" src="images/images.jpg" ></a>
-                </div>
-                <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav">
-                        <li ><a href="index.php"><i class="icon-home"></i></a></li>  
-						<li class="active"><a href="blog.php">Blog</a></li>
-						<li class=""><a href="news-article.php">News Article</a></li>
-						<li ><a href="video.php">Videos</a></li>
-                        
-                    </ul>
-                </div>
-            </div>
+<div class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="<?php echo $GLOBALS['url']?>">Ratul Puri</a>
         </div>
-    </header><!--/#header-->
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="<?php echo $GLOBALS['url']?>">Home</a></li>
+			<li><a href="<?php echo $GLOBALS['url']?>blog.php">Blog</a></li>
+			<li class=""><a href="<?php echo $GLOBALS['url']?>news.php">News</a></li>
+			<li ><a href="<?php echo $GLOBALS['url']?>video.php">Videos</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>

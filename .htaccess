@@ -1,14 +1,42 @@
 RewriteEngine On
 
 RewriteRule ^index\.php$ http://www.ratulpuri.com/ [L,R=301]
+RewriteRule ^index\.html$ http://www.ratulpuri.com/ [L,R=301]
 
-RewriteRule ^article[0-9]+$ http://www.ratulpuri.com/ [L,R=301]
+RewriteRule ^article[0-9]\.php+$ http://www.ratulpuri.com/ [L,R=301]
 
 RewriteRule ^ratulpuripower\.php$ http://www.ratulpuri.com/ [L,R=301]
 RewriteRule ^ratulpuriagenda\.php$ http://www.ratulpuri.com/ [L,R=301]
 RewriteRule ^ratulpurienergy\.php$ http://www.ratulpuri.com/ [L,R=301]
 
-RewriteCond %{HTTP_HOST} ^www.ratulpuri.com/index.php#$ [NC]
+
+RewriteRule ^news-article\.php$ http://www.ratulpuri.com/news\.php [L,R=301]
+
+RewriteRule ^strong-mandate-will-give-us-a-powerful-nation\.php$ http://www.ratulpuri.com/blog/strong-mandate-will-give-us-a-powerful-nation\.php [L,R=301]
+RewriteRule ^panel-discussion-on-challenges-in-the-indian-power-sector\.php$ http://www.ratulpuri.com/blog/panel-discussion-on-challenges-in-the-indian-power-sector\.php [L,R=301]
+RewriteRule ^indians-keen-on-electricity-not-so-much-on-gold\.php$ http://www.ratulpuri.com/blog/indians-keen-on-electricity-not-so-much-on-gold\.php [L,R=301]
+RewriteRule ^challenges-before-indian-energy-sector\.php$ http://www.ratulpuri.com/blog/challenges-before-indian-energy-sector\.php [L,R=301]
+RewriteRule ^agenda-before-the-new-government-serious-challenges-that-we-should-overcome\.php$ http://www.ratulpuri.com/blog/agenda-before-the-new-government-serious-challenges-that-we-should-overcome\.php [L,R=301]
+
+RewriteRule ^reduce-interest-rates-to-kickstart-the-economy\.php$ http://www.ratulpuri.com/news/reduce-interest-rates-to-kickstart-the-economy\.php [L,R=301]
+RewriteRule ^mandate-will-allow-govt-to-take-the-right-decisions\.php$ http://www.ratulpuri.com/news/mandate-will-allow-govt-to-take-the-right-decisions\.php [L,R=301]
+RewriteRule ^make-india-vibrant-after-vibrant-gujarat\.php$ http://www.ratulpuri.com/news/make-india-vibrant-after-vibrant-gujarat\.php [L,R=301]
+RewriteRule ^hindustan-Power-bags-nsci-award-second-time-in-row\.php$ http://www.ratulpuri.com/news/hindustan-Power-bags-nsci-award-second-time-in-row\.php [L,R=301]
+RewriteRule ^hindustan-powers-annuppur-project-gets-hydro-test-certification\.php$ http://www.ratulpuri.com/news/hindustan-powers-annuppur-project-gets-hydro-test-certification\.php [L,R=301]
+RewriteRule ^how-corporates-have-been-planning-for-multifarious-range-of-possible-post-election-scenarios\.php$ http://www.ratulpuri.com/news/how-corporates-have-been-planning-for-multifarious-range-of-possible-post-election-scenarios\.php [L,R=301]
+RewriteRule ^indias-power-sector-five-key-challenges-and-solutions\.php$ http://www.ratulpuri.com/news/indias-power-sector-five-key-challenges-and-solutions\.php [L,R=301]
+RewriteRule ^in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business\.php$ http://www.ratulpuri.com/news/in-search-of-light-ratul-puri-unveils-a-mega-investment-plan-for-his-fledgling-power-generation-business\.php [L,R=301]
+RewriteRule ^high-hopes-from-modi-and-team\.php$ http://www.ratulpuri.com/news/high-hopes-from-modi-and-team\.php [L,R=301]
+RewriteRule ^blackstone-backed-hindustan-powerprojects-plans-unit-ipo\.php$ http://www.ratulpuri.com/news/blackstone-backed-hindustan-powerprojects-plans-unit-ipo\.php [L,R=301]
+
+
+
+
+
+
+
+
+RewriteCond %{HTTP_HOST} ^www.ratulpuri.com/index\.php#$ [NC]
 RewriteRule ^(.*)$ http://www.ratulpuri.com/$1 [L,R=301]
 
 

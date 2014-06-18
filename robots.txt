@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /js/
-Disallow: /css/
 Sitemap: http://www.ratulpuri.com/sitemap.xml
