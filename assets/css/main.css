@@ -37,9 +37,9 @@ h1 {
 
 /* Paragraph & Typographic */
 p {
-    line-height: 28px;
+    line-height: 26px;
     margin-bottom: 25px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .centered {
@@ -129,8 +129,8 @@ a:after {
 /* Helpers */
 
 .mt {
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .pt {
@@ -142,8 +142,8 @@ a:after {
 /* +++++ WRAP SECTIONS +++++ */
 
 #ww {
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	background-color: #f2f2f2;
 }
 

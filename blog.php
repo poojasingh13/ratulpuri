@@ -19,7 +19,7 @@
 <div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
-<h1>Ratul Puri Blog</h1>
+<h1> Ratul Puri's Blog</h1>
 </div></div></div>
 <div id="grey">
 	    <div class="container">
