@@ -24,6 +24,27 @@
 </div></div></div>
 
 
+
+
+<div id="white">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<p><img src="<?php echo $GLOBALS['url']?>assets/img/images.jpg" width="50px" height="50px"> <ba>Ratul Puri</ba></p>
+			
+			<h2><a href="<?php echo $GLOBALS['url']?>news/chalking-out-an-ipo-for-hindustan-clean-energy-by-2014-15-end.php">Chalking out an IPO for Hindustan Clean Energy by 2014-15 end</a></h2>
+			<p>After  an IPO for its Solar unit, Hindustan Powerprojects Pvt Ltd (HPPPL) is raising funds for its renewable energy projects by selling shares of its subsidiary, Hindustan Clean Energy through an initial public offer (IPO) by the end of 2014-15.
+			</p><p>
+			<a href="<?php echo $GLOBALS['url']?>news/chalking-out-an-ipo-for-hindustan-clean-energy-by-2014-15-end.php">Read More..</a></p>
+			
+			</div>
+			</div>
+			</div>
+			</div>
+
+
+
+
 <div id="grey">
 	    <div class="container">
 			<div class="row">
