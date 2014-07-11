@@ -21,6 +21,41 @@
 				<div class="col-lg-8 col-lg-offset-2">
 <h1> Ratul Puri's Blog</h1>
 </div></div></div>
+
+<div id="grey">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<p><img src="<?php echo $GLOBALS['url']?>assets/img/images.jpg" width="50px" height="50px"> <ba>Ratul Puri</ba></p>
+					
+					<h2><a href="<?php echo $GLOBALS['url']?>blog/economic-survey-pegging-gdp-growth-at-5-4-5-9-is-a-practical-number.php">Economic Survey pegging GDP growth at 5.4-5.9% is a practical number, possible if the slew of announced initiatives is implemented</a></h2>
+					<p>The Economic Survey accurately captures the logjam by stating “What is particularly worrisome is the slowdown in manufacturing growth that averaged 0.2 per cent per annum in 2012-13 and 2013-14.” and an overall cost overrun of INR 1,57,802 crore (21.3% of the original cost) of 239 projects due to regulatory approvals, problems in land acquisition and rehabilitation, and environmental clearances.</p>
+					<p><a href="<?php echo $GLOBALS['url']?>blog/economic-survey-pegging-gdp-growth-at-5-4-5-9-is-a-practical-number.php">Read more...</a></p>
+				</div>
+
+			</div><!-- /row -->
+	    </div> <!-- /container -->
+	</div><!-- /grey -->
+
+
+<div id="white">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<p><img src="<?php echo $GLOBALS['url']?>assets/img/images.jpg" width="50px" height="50px"> <ba>Ratul Puri</ba></p>
+					
+					<h2><a href="<?php echo $GLOBALS['url']?>blog/exempt-power-producers-from-payment-of-mat.php">Exempt power producers from payment of MAT</a></h2>
+					<p>The current Government has to enact a fine balancing act in order to manage the Revenue gap, deal with Subsidies valued around Rs. 2,46,000 crore, Revive the GDP growth and more significantly Providing uninterrupted 24*7 power supply to the country.</p>
+					<p><a href="<?php echo $GLOBALS['url']?>blog/exempt-power-producers-from-payment-of-mat.php">Read more...</a></p>
+				</div>
+
+			</div><!-- /row -->
+	    </div> <!-- /container -->
+	</div><!-- /grey -->
+
+
+	
+	
 <div id="grey">
 	    <div class="container">
 			<div class="row">
