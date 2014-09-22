@@ -25,6 +25,45 @@
 
 
 
+		<div id="white">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<p><img src="<?php echo $GLOBALS['url']?>assets/img/images.jpg" width="50px" height="50px"> <ba>Ratul Puri</ba></p>
+			
+			<h2><a href="<?php echo $GLOBALS['url']?>news/winners-never-quit.php">Winners never quit</a></h2>
+			<p>Ratul Puri is a man in a hurry. Within six years of entering the power generation business with Moser Baer Projects—it was renamed Hindustan Powerprojects Pvt Ltd (HPPPL) late last year—he has emerged as the man behind the largest solar power generator in the country. The entrepreneur has earned the grudging respect of his peers and competitors, many of whom expected him to fail in his latest venture.
+			</p>
+			<p>
+			<a href="<?php echo $GLOBALS['url']?>news/winners-never-quit.php">Read More..</a></p>
+			
+			</div>
+			</div>
+			</div>
+			</div>
+
+
+<div id="grey">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<p><img src="<?php echo $GLOBALS['url']?>assets/img/images.jpg" width="50px" height="50px"> <ba>Ratul Puri</ba></p>
+			
+			<h2><a href="<?php echo $GLOBALS['url']?>news/budget-2014-700-crore-allocated-to-power-and-water-reforms.php">Budget 2014: 700 crore allocated to Power and water reforms</a></h2>
+			<p>In the maiden Budget Speech in Lok Sabha today, the Finance Minister announced a budget of Rs.200 crore for power reforms and Rs.500 crore for water reforms to make Delhi a truly world class city.
+			</p><p>
+			<a href="<?php echo $GLOBALS['url']?>news/budget-2014-700-crore-allocated-to-power-and-water-reforms.php">Read More..</a></p>
+			
+			</div>
+			</div>
+			</div>
+			</div>
+
+
+
+			
+	
+
 
 <div id="white">
 	    <div class="container">
