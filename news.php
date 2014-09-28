@@ -32,7 +32,7 @@
 					<p><img src="<?php echo $GLOBALS['url']?>assets/img/images.jpg" width="50px" height="50px"> <ba>Ratul Puri</ba></p>
 			
 			<h2><a href="<?php echo $GLOBALS['url']?>news/winners-never-quit.php">Winners never quit</a></h2>
-			<p>Ratul Puri is a man in a hurry. Within six years of entering the power generation business with Moser Baer Projects—it was renamed Hindustan Powerprojects Pvt Ltd (HPPPL) late last year—he has emerged as the man behind the largest solar power generator in the country. The entrepreneur has earned the grudging respect of his peers and competitors, many of whom expected him to fail in his latest venture.
+			<p>Ratul Puri is a man in a hurry. Within six years of entering the power generation business, he has emerged as the man behind the largest solar power generator in the country. The entrepreneur has earned the grudging respect of his peers and competitors, many of whom expected him to fail in his latest venture.
 			</p>
 			<p>
 			<a href="<?php echo $GLOBALS['url']?>news/winners-never-quit.php">Read More..</a></p>
